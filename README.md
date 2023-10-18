@@ -26,3 +26,8 @@ librerias usadas.
 ## zone.js@0.12.0
 ## npm: '8.3.1',
 ## node: '16.14.0',
+
+## Guia for run Test
+- ejecutar en la terminal del proyecto la siguiente instruccion:
+    - ng test
+      ![Esta es una imagen de ejemplo](https://digital55.com/wp-content/uploads/2022/01/TestingenAngularconJasmineyKarmatest-4.png)
